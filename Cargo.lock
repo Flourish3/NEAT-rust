@@ -1,0 +1,11 @@
+[[package]]
+name = "genome"
+version = "0.1.0"
+
+[[package]]
+name = "neat"
+version = "0.1.0"
+dependencies = [
+ "genome 0.1.0",
+]
+

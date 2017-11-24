@@ -1,0 +1,6 @@
+[package]
+name = "genome"
+version = "0.1.0"
+authors = ["Johan Tillmar <johan.tillmar@gmail.com>"]
+
+[dependencies]
